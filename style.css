@@ -10,7 +10,7 @@ section {
 .header {
     
     padding-top: 44px;
-    background: url(bg.png) center center no-repeat;
+    background: url(./img/bg.png) center center no-repeat;
 }
 
 .menu {
